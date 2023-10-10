@@ -1,0 +1,43 @@
+Hello Everyone,
+
+I'm excited to showcase my ‘HR Analytics' project using Power BI.
+
+
+
+🛡𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲 - The main objective is to gain valuable insights from data about the people who work for a Company, how to increase their effectiveness through decision-making based on the insights, and what realistic goals may be set for them, and proposes to look at an easy and interactive dashboard for the same.
+
+
+
+✍𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀 - Data Cleaning, Data Transformation, Data Modeling, Visualization, DAX functions, Page Navigation.
+
+
+
+🔍𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+
+
+
+🔑Male workers are greater than female.
+
+🔑4.9% of workers did not get a promotion for more than 10 years.
+
+🔑8% of workers need retirement.
+
+🔑 Employees mostly need to be promoted and retired from the Research and Development department.
+
+🔑The performance rating for the Research Director job role is quite good.
+
+
+
+💻 𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱 - Microsoft Power BI, Zoom (for screen recording).
+
+
+
+𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝘁𝗵𝗲 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗵𝗲𝗿𝗲 - https://www.novypro.com/project/hr-analytics-report-10
+
+
+
+Thank you so much for your time in engaging with this post!
+
+
+
+#dataanalyst #powerbidashboard
